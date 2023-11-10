@@ -1,5 +1,4 @@
 # CSE-6424-Data_Visual_Analytics  @ GaTech
-## Grad Course ***CSE 6424 Data Visual & Analytics***. 
 A variety of tools are covered including 
 * D3.js
 * Tableau
