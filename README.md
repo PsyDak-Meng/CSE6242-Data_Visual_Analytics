@@ -1,5 +1,5 @@
-# CSE-6424-Data_Visual_Analytics
-## Grad Course "CSE 6424 Data Visual & Analytics" @ GaTech. 
+# CSE-6424-Data_Visual_Analytics  @ GaTech
+## Grad Course ***CSE 6424 Data Visual & Analytics***. 
 #### js script written inside html file.
 A variety of tools are covered including 
 * D3.js
